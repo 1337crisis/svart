@@ -29,7 +29,7 @@ Svart is not a complete chess program and requires a [UCI-compatible graphical u
 >Amount of threads used, including the UCI handler.
     
 
-# History
+# History [OUTDATED]
 
 | Version   | CCRL 40/15     | CCRL Blitz     | MCERL        | CEGT 4/40      |
 | --------- | -------------- | -------------- | ------------ | -------------- |
@@ -59,9 +59,9 @@ Svart's release scheme follows the [microarchitecture levels](https://en.wikiped
 **x86_64-v4** is the fastest but requires AVX-512 support.
     
     
-[commits-badge]:https://img.shields.io/github/commits-since/crippa1337/svart/latest?style=for-the-badge
-[commits-link]:https://github.com/crippa1337/svart/commits/master
-[release-badge]:https://img.shields.io/github/v/release/crippa1337/svart?style=for-the-badge&label=official%20release
-[release-link]:https://github.com/crippa1337/svart/releases/latest
-[license-badge]:https://img.shields.io/github/license/crippa1337/svart?style=for-the-badge&label=license&color=success
-[license-link]:https://github.com/crippa1337/svart/blob/master/LICENSE
+[commits-badge]:https://img.shields.io/github/commits-since/1337crisis/svart/latest?style=for-the-badge
+[commits-link]:https://github.com/1337crisis/svart/commits/master
+[release-badge]:https://img.shields.io/github/v/release/1337crisis/svart?style=for-the-badge&label=official%20release
+[release-link]:https://github.com/1337crisis/svart/releases/latest
+[license-badge]:https://img.shields.io/github/license/1337crisis/svart?style=for-the-badge&label=license&color=success
+[license-link]:https://github.com/1337crisis/svart/blob/master/LICENSE
