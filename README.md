@@ -8,7 +8,7 @@
 </div>
 A free and open source UCI chess engine written in Rust.
 
-Svart is not a complete chess program and requires a [UCI-compatible graphical user interface](https://www.chessprogramming.org/UCI#GUIs) in order to be used comfortably.
+Svart is not a complete chess program and requires a [UCI-compatible graphical user interface](https://cutechess.com/) in order to be used graphically.
 
 
 # UCI Options
@@ -44,7 +44,7 @@ Svart is not a complete chess program and requires a [UCI-compatible graphical u
 Compile Svart using [Cargo](https://doc.rust-lang.org/cargo/).
 
 ```
-$ git clone https://github.com/crippa1337/svart/
+$ git clone https://github.com/1337crisis/svart
 $ cd svart
 $ make [rule / release / data]
 ```
